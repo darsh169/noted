@@ -1,2 +1,2 @@
 # noted
-Note taking web app
+Note taking web app in Django  
